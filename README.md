@@ -1,2 +1,2 @@
-# Almabetter_Module6_Machine_Learning
+# Almabetter_Module6_Machine_Learning_Capstone_Project
 Machine Learning Project. 
